@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Test/SingletoneAScene.unity
+    guid: 49224e04ce57c9b46b67d9f3cb55f2ce
+  - enabled: 1
+    path: Assets/Test/SingletoneBScene.unity
+    guid: 00ac569c048d7044b81030d6c3b4951b
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
